@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdulrahman Alabi
 - 👀 I’m interested in JS, LARAVEL, PY, REACT, JAVA(Spring Boot) MS and taking over the world with Web3
-- 🌱 I’m currently working on Web3 and smart contracts
+- 🌱 I’m currently working on Web Development, Web3 and smart contracts
 - 💞️ I’m looking to collaborate on anything that is tech or awesome
 - 📫 How to reach me---- alabiaweda619@gmail.com
 - 😁I'm interested in learning new and fantastic things
